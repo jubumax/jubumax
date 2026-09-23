@@ -1,8 +1,12 @@
 <!-- banner -->
 
-<img src="./banners/banner1.jpg" alt="Hello world">
+<img src="./banners/banner23.jpg" alt="Hello world">
 
 <br/>
+
+<!--- visit count --->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jubumax&label=Profile%20views&color=0e75b6&style=flat" alt="jubumax" /> </p>
 
 <!--- title --->
 
@@ -12,14 +16,14 @@
 
 <!-- typo -->
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Aspiring+Full-Stack+Developer;JavaScript+%26+React+Learner;+Exploring++Cyber+Security" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&width=435&lines=Aspiring+Full-Stack+Developer;JavaScript+%26+React+Learner+;Exploring+Data+Analytics" alt="Typing SVG" /></a>
 
 </ul>
 </div>
 
 <!-- <br> -->
 
-### 👨‍💻 Full-Stack Web Engineering Student | Aspiring Web Developer
+### 👨‍💻 Full-Stack Web Engineering Student | Aspiring Web Developer | Exploring Data Analytics
 --- 
 
 A passionate learner and Web Engineering student deeply interested in solving real-world problems through clean code, interactive UI design, and scalable web solutions. Coming from an analytical background, I focus on building efficient, modern, and user-centric web applications.
@@ -33,8 +37,10 @@ A passionate learner and Web Engineering student deeply interested in solving re
 - 🛠️ Working on responsive **Full-Stack Projects** and REST API integration.
 - 🗄️ Using **Node.js, Express.js, MongoDB,** and **PostgreSQL** for the backend.
 - 🎓 Elevating skills in advanced JavaScript **(ES6+)**, State Management, and Clean Code practices.
-- 📚 Continuously exploring modern front-end architectures, data analytics, and cyber security.
-
+- 📊 Developing my **Data Analysis skills** with **Excel, R, Power BI,** and **Data Visualization**.
+- 📈 Exploring practical ways to work with data, from **data cleaning and analysis** to **visualization and insights**.
+- 📚 Continuously exploring **modern front-end architectures, data analytics,** and **cybersecurity** while improving my problem-solving and programming skills.
+ 
 <br>
 
 <!--- socials --->
@@ -44,9 +50,10 @@ A passionate learner and Web Engineering student deeply interested in solving re
 
 <div>
   <p align="left">
-    <a href="https://linkedin.com/in/jubaerhasan-an" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="jubaerhasan-an"/>&nbsp</a>
+    <a href="https://linkedin.com/in/jubumax" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="jubumax"/>&nbsp</a>
     <a href="https://instagram.com/jubaerhasan.an" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="jubaerhasan.an"/>&nbsp</a>
-    <a href="https://discord.com/users/jubumax" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="jubumax"/></a>
+    <a href="https://discord.com/users/jubumax" target="_blank"><img src="https://skillicons.dev/icons?i=discord" alt="jubumax"/>&nbsp</a>
+    <a href="https://dev.to/jubumax" target="_blank"><img src="https://skillicons.dev/icons?i=devto" alt="jubumax"/></a>
   </p>
 </div>
 
@@ -58,7 +65,7 @@ A passionate learner and Web Engineering student deeply interested in solving re
 ---
 
 ### Languages:
-[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript)](https://github.com/jubumax)
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,r)](https://github.com/jubumax)
 
 ### CSS Frameworks & Libraries:
 [![CSS Frameworks & Libraries](https://skillicons.dev/icons?i=tailwind)](https://github.com/jubumax)
@@ -120,8 +127,10 @@ A passionate learner and Web Engineering student deeply interested in solving re
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jubumax&theme=github_dark" alt="Jubaer's repository language statistics" width="49%" />
 </p>
 
+<!-- footer -->
+
 ---
 
-<!--- visit count --->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jubumax&label=Profile%20views&color=0e75b6&style=flat" alt="jubumax" /> </p>
+<div align="center">
+  © 2026 <a href="https://linkedin.com/in/jubumax" style="color: inherit"><b>@jubumax</b></a> · All rights reserved.
+</div>
